@@ -1,1 +1,24 @@
 # primeiro-repositorio
+
+Copiar código HTML:
+
+```
+<html lang="pt-br">
+
+    <head>
+
+        <meta charset="UTF-8">
+
+    </head>
+
+    <body>
+
+        <h1>TITULO</h1>
+
+        <p>TEXTO</p>
+
+    </body>
+  
+</html>
+
+```
