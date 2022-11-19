@@ -3,6 +3,8 @@
 Copiar código HTML:
 
 ```
+<!DOCTYPE html>
+
 <html lang="pt-br">
 
     <head>
